@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:12
+FROM mhart/alpine-node:16
 
 ADD https://github.com/destruc7i0n/shulker/archive/master.tar.gz /tmp/shulker.tar.gz
 
